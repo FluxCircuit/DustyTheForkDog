@@ -4095,6 +4095,22 @@
         "special": "none"
       },
       "story": "Your dog rested today. No visible changes."
+    },
+    {
+      "timestamp": "2026-07-27T01:47:14.891390",
+      "dna_hash": "530a0528afa941f3",
+      "generation": 1,
+      "mutation_count": 29,
+      "rarity_score": 26.666666666666668,
+      "traits": {
+        "body_color": "brown",
+        "face_expression": "neutral",
+        "accessory": "wings",
+        "pattern": "swirls",
+        "background": "white",
+        "special": "none"
+      },
+      "story": "Your dog evolved! Changes: accessory: jetpack \u2192 wings"
     }
   ]
 }
