@@ -1,8 +1,8 @@
 {
-  "dna_hash": "6fe5ee1a31d0e4ed",
+  "dna_hash": "14dd25c0c79fd438",
   "generation": 1,
   "age_days": 0,
-  "mutation_count": 35,
+  "mutation_count": 36,
   "rarity_score": 18.333333333333332,
   "parent_id": null,
   "traits": {
@@ -15,7 +15,7 @@
       "rarity": "common"
     },
     "accessory": {
-      "value": "wizard_hat",
+      "value": "halo",
       "rarity": "rare"
     },
     "pattern": {
@@ -31,5 +31,5 @@
       "rarity": "common"
     }
   },
-  "last_updated": "2026-08-05T01:23:04.680976"
+  "last_updated": "2026-08-06T01:20:38.676732"
 }
