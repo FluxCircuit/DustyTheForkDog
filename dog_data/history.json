@@ -4431,6 +4431,22 @@
         "special": "none"
       },
       "story": "Your dog evolved! Changes: accessory: diamond_chain \u2192 golden_crown"
+    },
+    {
+      "timestamp": "2026-08-17T00:32:37.258687",
+      "dna_hash": "c5bb216d462dbdcb",
+      "generation": 1,
+      "mutation_count": 41,
+      "rarity_score": 31.666666666666664,
+      "traits": {
+        "body_color": "beige",
+        "face_expression": "curious",
+        "accessory": "golden_crown",
+        "pattern": "fractals",
+        "background": "sunset",
+        "special": "none"
+      },
+      "story": "Your dog rested today. No visible changes."
     }
   ]
 }
