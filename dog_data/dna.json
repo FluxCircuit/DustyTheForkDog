@@ -1,14 +1,14 @@
 {
-  "generation": 1,
-  "parent_id": null,
-  "dna_hash": "04985a61297e8ef9",
+  "generation": 2,
+  "parent_id": "04985a61297e8ef9",
+  "dna_hash": "2bfeeb8414cec8a2",
   "mutation_count": 0,
-  "birth_timestamp": 190794,
+  "birth_timestamp": 557186,
   "traits": {
     "body_color": {
-      "value": "tan",
-      "rarity": "common",
-      "gene_sequence": "11949536"
+      "value": "crystal",
+      "rarity": "legendary",
+      "gene_sequence": "5713892a"
     },
     "face_expression": {
       "value": "laughing",
@@ -16,9 +16,9 @@
       "gene_sequence": "dbc6932f"
     },
     "accessory": {
-      "value": "bow",
-      "rarity": "common",
-      "gene_sequence": "22acdd9b"
+      "value": "wizard_hat",
+      "rarity": "rare",
+      "gene_sequence": "0feb35ef"
     },
     "pattern": {
       "value": "hearts",
@@ -31,10 +31,10 @@
       "gene_sequence": "976ee2e9"
     },
     "special": {
-      "value": "aura",
-      "rarity": "rare",
-      "gene_sequence": "3a5b2f57"
+      "value": "sparkles",
+      "rarity": "uncommon",
+      "gene_sequence": "18ebc4a5"
     }
   },
-  "rarity_score": 25.0
+  "rarity_score": 41.66666666666667
 }
