@@ -4591,6 +4591,22 @@
         "special": "shadow"
       },
       "story": "Your dog evolved! Changes: accessory: wizard_hat \u2192 horns, pattern: hearts \u2192 diamonds"
+    },
+    {
+      "timestamp": "2026-08-25T03:16:48.244011",
+      "dna_hash": "8cadf2d6c1fb06f0",
+      "generation": 2,
+      "mutation_count": 3,
+      "rarity_score": 41.66666666666667,
+      "traits": {
+        "body_color": "crystal",
+        "face_expression": "laughing",
+        "accessory": "horns",
+        "pattern": "diamonds",
+        "background": "green_grass",
+        "special": "shadow"
+      },
+      "story": "Your dog rested today. No visible changes."
     }
   ]
 }
