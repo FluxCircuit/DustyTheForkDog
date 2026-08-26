@@ -4607,6 +4607,22 @@
         "special": "shadow"
       },
       "story": "Your dog rested today. No visible changes."
+    },
+    {
+      "timestamp": "2026-08-26T03:36:08.135596",
+      "dna_hash": "e11a2559269399f1",
+      "generation": 2,
+      "mutation_count": 5,
+      "rarity_score": 41.66666666666667,
+      "traits": {
+        "body_color": "crystal",
+        "face_expression": "laughing",
+        "accessory": "horns",
+        "pattern": "diamonds",
+        "background": "green_grass",
+        "special": "glow"
+      },
+      "story": "Your dog evolved! Changes: special: shadow \u2192 glow"
     }
   ]
 }
