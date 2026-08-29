@@ -4639,6 +4639,22 @@
         "special": "glow"
       },
       "story": "Your dog rested today. No visible changes."
+    },
+    {
+      "timestamp": "2026-08-29T00:08:47.916523",
+      "dna_hash": "a89d95c9bfb4703d",
+      "generation": 2,
+      "mutation_count": 7,
+      "rarity_score": 40.0,
+      "traits": {
+        "body_color": "rainbow",
+        "face_expression": "laughing",
+        "accessory": "horns",
+        "pattern": "gradient",
+        "background": "green_grass",
+        "special": "glow"
+      },
+      "story": "Your dog evolved! Changes: body_color: crystal \u2192 rainbow, pattern: diamonds \u2192 gradient"
     }
   ]
 }
