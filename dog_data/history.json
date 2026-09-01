@@ -4687,6 +4687,22 @@
         "special": "glow"
       },
       "story": "Your dog evolved! Changes: body_color: rainbow \u2192 crystal, pattern: gradient \u2192 stripes, background: green_grass \u2192 blue_sky"
+    },
+    {
+      "timestamp": "2026-09-01T00:25:53.090696",
+      "dna_hash": "2d7637f69abdb8ea",
+      "generation": 2,
+      "mutation_count": 12,
+      "rarity_score": 40.0,
+      "traits": {
+        "body_color": "crystal",
+        "face_expression": "laughing",
+        "accessory": "horns",
+        "pattern": "stripes",
+        "background": "blue_sky",
+        "special": "sparkles"
+      },
+      "story": "Your dog evolved! Changes: special: glow \u2192 sparkles"
     }
   ]
 }
