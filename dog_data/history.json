@@ -5039,6 +5039,22 @@
         "special": "sparkles"
       },
       "story": "Your dog rested today. No visible changes."
+    },
+    {
+      "timestamp": "2026-09-23T04:24:40.630147",
+      "dna_hash": "236d0dfa91c38205",
+      "generation": 2,
+      "mutation_count": 24,
+      "rarity_score": 40.0,
+      "traits": {
+        "body_color": "galaxy",
+        "face_expression": "laughing",
+        "accessory": "horns",
+        "pattern": "stripes",
+        "background": "blue_sky",
+        "special": "sparkles"
+      },
+      "story": "Your dog evolved! Changes: pattern: gradient \u2192 stripes"
     }
   ]
 }
