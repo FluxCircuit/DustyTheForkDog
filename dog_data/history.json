@@ -5359,6 +5359,22 @@
         "special": "shadow"
       },
       "story": "Your dog evolved! Changes: face_expression: laughing \u2192 excited, pattern: gradient \u2192 stripes"
+    },
+    {
+      "timestamp": "2026-10-13T06:30:18.393518",
+      "dna_hash": "1a13c42dd90dee60",
+      "generation": 2,
+      "mutation_count": 40,
+      "rarity_score": 35.0,
+      "traits": {
+        "body_color": "rainbow",
+        "face_expression": "excited",
+        "accessory": "wizard_hat",
+        "pattern": "stripes",
+        "background": "city",
+        "special": "none"
+      },
+      "story": "Your dog evolved! Changes: special: shadow \u2192 none"
     }
   ]
 }
