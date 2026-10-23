@@ -5519,6 +5519,22 @@
         "special": "none"
       },
       "story": "Your dog evolved! Changes: pattern: solid \u2192 spots"
+    },
+    {
+      "timestamp": "2026-10-23T04:22:44.566815",
+      "dna_hash": "499f1e4603452188",
+      "generation": 2,
+      "mutation_count": 51,
+      "rarity_score": 33.33333333333333,
+      "traits": {
+        "body_color": "holographic",
+        "face_expression": "excited",
+        "accessory": "laser_eyes",
+        "pattern": "spots",
+        "background": "blue_sky",
+        "special": "none"
+      },
+      "story": "Your dog evolved! Changes: accessory: wizard_hat \u2192 laser_eyes, background: mountains \u2192 blue_sky"
     }
   ]
 }
