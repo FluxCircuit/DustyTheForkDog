@@ -5999,6 +5999,22 @@
         "special": "none"
       },
       "story": "Your dog evolved! Changes: body_color: rainbow \u2192 crystal, accessory: crown \u2192 headphones"
+    },
+    {
+      "timestamp": "2026-11-22T06:15:39.854451",
+      "dna_hash": "d0a35e96588455ca",
+      "generation": 2,
+      "mutation_count": 75,
+      "rarity_score": 26.666666666666668,
+      "traits": {
+        "body_color": "crystal",
+        "face_expression": "cool",
+        "accessory": "simple_hat",
+        "pattern": "stripes",
+        "background": "white",
+        "special": "none"
+      },
+      "story": "Your dog evolved! Changes: accessory: headphones \u2192 simple_hat"
     }
   ]
 }
